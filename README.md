@@ -10,7 +10,7 @@
 ```
 
 ## 🧑‍💻 About Me
-https://phuongtanthanh.vercel.app/
+https://thanhpt.xyz
 
 ```javascript
 const ptt3199 = {
